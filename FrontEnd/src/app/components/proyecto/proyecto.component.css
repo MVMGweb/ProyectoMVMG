@@ -1,0 +1,9 @@
+.row{
+    padding: 30px;
+    background-color: #2a3948;
+    color: #fff;
+    text-align: center;
+   }
+   .container{
+    max-width: max-content;
+   }
